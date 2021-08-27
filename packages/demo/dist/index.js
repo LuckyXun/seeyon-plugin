@@ -1,0 +1,1 @@
+!function(e,n){"object"==typeof exports&&"undefined"!=typeof module?module.exports=n():"function"==typeof define&&define.amd?define(n):(e="undefined"!=typeof globalThis?globalThis:e||self).file=n()}(this,(function(){"use strict";return{install(e,n){e.component("heek",{render:e=>e("div","lllllx")})}}}));
